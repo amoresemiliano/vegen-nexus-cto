@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#071A33"/>
+<circle cx="512" cy="512" r="422" fill="#0B2A4A" stroke="#2FE6D0" stroke-width="18"/>
+<circle cx="512" cy="512" r="362" fill="none" stroke="#1F8BFF" stroke-width="10"/>
+<g stroke="#2FE6D0" stroke-width="12" fill="#2FE6D0">
+<path d="M250 300 L360 370"/><path d="M220 512 L360 512"/><path d="M280 724 L360 655"/>
+<path d="M774 300 L664 370"/><path d="M804 512 L664 512"/><path d="M744 724 L664 655"/>
+<circle cx="250" cy="300" r="18"/><circle cx="220" cy="512" r="18"/><circle cx="280" cy="724" r="18"/>
+<circle cx="774" cy="300" r="18"/><circle cx="804" cy="512" r="18"/><circle cx="744" cy="724" r="18"/>
+</g>
+<polygon points="512,255 665,350 665,674 512,769 359,674 359,350" fill="#0D4D82" stroke="#fff" stroke-width="8"/>
+<text x="512" y="615" text-anchor="middle" font-family="Arial,sans-serif" font-size="330" font-weight="700" fill="#fff">N</text>
+<rect x="372" y="675" width="280" height="110" rx="25" fill="#071A33" stroke="#2FE6D0" stroke-width="5"/>
+<text x="512" y="753" text-anchor="middle" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#2FE6D0">&lt;/&gt;</text>
+</svg>

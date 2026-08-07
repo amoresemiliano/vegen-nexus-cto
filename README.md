@@ -1,6 +1,14 @@
-# NEXUS Dev OS v1.0
+# Changelog
 
-Repositorio maestro de metodología, contexto, seguridad, prompting, radar tecnológico y roadmap de integración.
+## [1.0.0] - 2026-08-07
 
-Sube al Knowledge del GPT los archivos 00_ a 09_.
-Mantén GitHub como fuente de verdad y reemplaza los archivos cargados al GPT cuando cambie la versión del repositorio.
+### Added
+- Contexto maestro de Vegen Nexus CTO.
+- Stack tecnológico habitual.
+- Workflow `/architect`, `/build`, `/review` y `/radar`.
+- Estándares de prompting por agente/plataforma.
+- Reglas de seguridad, QA y Git.
+- Registro maestro de proyectos.
+- Technology Radar y Technology Review.
+- Roadmap de integración por etapas.
+- Identidad visual inicial.
