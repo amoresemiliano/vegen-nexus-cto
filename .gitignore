@@ -1,0 +1,56 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Node / JS
+node_modules/
+dist/
+build/
+.next/
+.vercel/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Coverage / test output
+coverage/
+.nyc_output/
+
+# Local tooling / cache
+.cache/
+tmp/
+temp/
+
+# Secrets / credentials
+*.pem
+*.key
+*.crt
+credentials.json
+service-account*.json
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Backup files
+*.bak
+*.backup
+*~
