@@ -1,9 +1,14 @@
-#!/usr/bin/env bash
-set -e
-git init
-git branch -M main
-git remote remove origin 2>/dev/null || true
-git remote add origin https://github.com/amoresemiliano/nexus-dev-os.git
-git add .
-git commit -m "chore: bootstrap Vegen Nexus Dev OS v1.0.0"
-git push -u origin main
+# Changelog
+
+## [1.0.0] - 2026-08-07
+
+### Added
+- Contexto maestro de Vegen Nexus CTO.
+- Stack tecnológico habitual.
+- Workflow `/architect`, `/build`, `/review` y `/radar`.
+- Estándares de prompting por agente/plataforma.
+- Reglas de seguridad, QA y Git.
+- Registro maestro de proyectos.
+- Technology Radar y Technology Review.
+- Roadmap de integración por etapas.
+- Identidad visual inicial.
