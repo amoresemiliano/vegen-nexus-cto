@@ -1,4 +1,4 @@
-# Vegen Nexus Dev OS
+# Vegen Nexus CTO
 
 Repositorio maestro de metodología, contexto, seguridad, prompting, radar tecnológico y roadmap de integración para **Vegen Nexus CTO**.
 
