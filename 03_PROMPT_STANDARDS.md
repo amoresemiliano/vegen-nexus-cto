@@ -16,6 +16,23 @@ Evitar que dos agentes modifiquen simultáneamente los mismos archivos o respons
 
 No pedir a un agente que rediseñe, implemente, pruebe, despliegue y refactorice todo un sistema en una sola tarea salvo justificación excepcional.
 
+
+## Execution gate
+
+Antes de generar un prompt de implementación, confirmar que la tarea a ejecutar está suficientemente identificada.
+
+No convertir automáticamente:
+
+- roadmap;
+- backlog;
+- siguiente fase sugerida;
+- recomendación anterior;
+- Knowledge;
+
+en una orden de ejecución.
+
+Un prompt puede ser técnicamente perfecto y aun así ser incorrecto si implementa la tarea equivocada.
+
 ---
 
 ## Estructura estándar
